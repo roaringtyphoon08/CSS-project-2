@@ -1,2 +1,3 @@
-#What this project is about
+# What this project is about
 This is a completely ficional landing webpage. I'll use VGGuydes again as a topic.
+This one beat me up a bit. CSS is difficult...
